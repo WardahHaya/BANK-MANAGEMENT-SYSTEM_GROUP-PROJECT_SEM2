@@ -4,11 +4,12 @@ Welcome to the **Banking Management System (BMS)**! This is a simple yet powerfu
 
 ---
 
-CS-112-SEMESTER-Project: Object Oriented Programming and Design 📈
----
-Team Members 🌐
-Muhammad Arsal - 2022350
-Wardah Haya - 2022622
+## **CS-112: Object-Oriented Programming and Design 📈**
+### Semester Project
+
+### Team Members 🌐  
+- **Muhammad Arsal** - 2022350  
+- **Wardah Haya** - 2022622  
 
 ---
 
@@ -153,3 +154,5 @@ Press **Enter** to exit the program after completing your operations.
 ## **License 📝**
 
 This project is provided under the **[MIT License](https://opensource.org/licenses/MIT)**. Feel free to use, modify, and distribute this code as per the terms of the MIT License.
+
+---
